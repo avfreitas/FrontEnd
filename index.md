@@ -1,3 +1,31 @@
+Olá ! 
+
+Grato pela visita! 
+
+Sou o Prof. Dr. Aparecido Freitas!
+
+Sou professor e Coordenador dos cursos de Computação da USCS - Universidade Municipal de São Caetano do Sul. 
+
+Ministro também disciplinas da área de Computação no IMT - Instituto Mauá de Tecnologia, no curso de Engenharia de Computação - Escola de Engenharia Mauá. 
+
+Sou Bacharel em Matemática pela Fundação Santo André e em Engenharia pela Escola de Engenharia Maúa. 
+
+Tenho Doutorado e Mestrado em Engenharia de Computação pela EPUSP - Escola Politécnica da USP. 
+
+Seguem meus contatos: 
+
+E-mails:    aparecidovfreitas@gmail.com 
+            
+             aparecido.freitas@online.uscs.edu.br 
+             
+             aparecido.freitas@maua.br
+             
+             
+             
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/avfreitas/FrontEnd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
